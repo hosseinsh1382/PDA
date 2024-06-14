@@ -1,0 +1,14 @@
+D:\University\نظریه زبان ها\PDA\PDA\bin\Debug\net8.0\PDA.exe
+D:\University\نظریه زبان ها\PDA\PDA\bin\Debug\net8.0\PDA.deps.json
+D:\University\نظریه زبان ها\PDA\PDA\bin\Debug\net8.0\PDA.runtimeconfig.json
+D:\University\نظریه زبان ها\PDA\PDA\bin\Debug\net8.0\PDA.dll
+D:\University\نظریه زبان ها\PDA\PDA\bin\Debug\net8.0\PDA.pdb
+D:\University\نظریه زبان ها\PDA\PDA\obj\Debug\net8.0\PDA.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\نظریه زبان ها\PDA\PDA\obj\Debug\net8.0\PDA.AssemblyInfoInputs.cache
+D:\University\نظریه زبان ها\PDA\PDA\obj\Debug\net8.0\PDA.AssemblyInfo.cs
+D:\University\نظریه زبان ها\PDA\PDA\obj\Debug\net8.0\PDA.csproj.CoreCompileInputs.cache
+D:\University\نظریه زبان ها\PDA\PDA\obj\Debug\net8.0\PDA.dll
+D:\University\نظریه زبان ها\PDA\PDA\obj\Debug\net8.0\refint\PDA.dll
+D:\University\نظریه زبان ها\PDA\PDA\obj\Debug\net8.0\PDA.pdb
+D:\University\نظریه زبان ها\PDA\PDA\obj\Debug\net8.0\PDA.genruntimeconfig.cache
+D:\University\نظریه زبان ها\PDA\PDA\obj\Debug\net8.0\ref\PDA.dll
