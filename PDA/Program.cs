@@ -1,4 +1,11 @@
 ﻿var path = Console.ReadLine();
+
+var (automata, input) = await new Reader().Read(path);
+
+foreach (var i in input)
+{
+    Console.WriteLine($"{i}: {automata.Trace(i)}");
+}
 public class Reader
 {
     public async Task<(PDA, List<string>)> Read(string path)
